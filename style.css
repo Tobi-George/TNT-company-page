@@ -32,6 +32,10 @@ main {
     padding: 20px;
 }
 
+section {
+    width: 20%
+}
+
 footer {
     text-align: center;
     padding: 20px 0;
