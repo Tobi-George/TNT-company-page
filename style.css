@@ -28,6 +28,10 @@ nav ul li a {
     text-decoration: none;
 }
 
+.tobiDiv {
+    background-color: #ffffcc;
+}
+
 main {
     padding: 20px;
 }
@@ -38,6 +42,4 @@ footer {
     background: #333;
     color: #fff;
 }
-#index {
-    text-align: center;
-}
+
