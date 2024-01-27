@@ -12,6 +12,9 @@ header {
     padding: 1rem 0;
     text-align: center;
 }
+h2{
+    text-align:center;
+}
 
 nav ul {
     list-style: none;
@@ -37,4 +40,30 @@ footer {
     padding: 20px 0;
     background: #333;
     color: #fff;
+}
+#indexfooter {
+    text-align: center;
+    padding: 20px 0;
+    background: #333;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.container {
+    text-align: center; 
+}
+
+.image {
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+#teamimage {
+    border-radius: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
